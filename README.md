@@ -48,3 +48,12 @@ Jadi pada program ini saya membuat penghitungan rumus kecepatan
 ![Alt text](https://github.com/captainhimer/jobsheet-function/blob/master/latihan%205.jpg)
 
 Jadi pada program ini saya membuat method untuk dapat menemukan bilangan terbesar dari 3 inputan
+
+# Kalkulator Sederhana
+![Alt text](https://github.com/captainhimer/jobsheet-function/blob/master/coding%20kalkulator%20sederhana.jpg)
+
+Berikut adalah coding dari kalkulator sederhana yang saya buat
+
+![Alt text](https://github.com/captainhimer/jobsheet-function/blob/master/eksekusi%20program%20kalkulator%20sederhana.jpg)
+
+Berikut adalah output atau eksekusi dari program kalkulator sederhana yang saya buat
